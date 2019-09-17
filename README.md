@@ -100,7 +100,7 @@ I made a timer where the user sets the time, and then when the button is pressed
 Once zero is reached, The Final Countdown, the song, is played. 
 [The Final Countdown!](https://www.youtube.com/watch?v=4EsD4VwtIyg&feature=share&fbclid=IwAR22yKTyRz1F26sq5BCkoCNKnhx7o9P6lWNpHR57-5ZHqzr3bFMPA9-uE0M)
 
-The following is my code used in the video
+The following is my code used in the video. I have also uploaded it in my lab 2 repository. 
 ```
 /* Rotary encoder test code
    Modified from http://www.circuitsathome.com/mcu/programming/reading-rotary-encoder-on-arduino by Oleg
