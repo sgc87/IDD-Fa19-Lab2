@@ -18,7 +18,7 @@ Include your responses to the bold questions below. Include snippets of code tha
  9) alarm clock: This Requires just a dial and the push down button to turn the set alarm on or off. 
 10) that was easy buttom: May require an SD card for the sound file, but it's pretty straight forward and fun. 
 
-1[Illustrations of Pre-Lab Ideas](https://github.com/sgc87/IDD-Fa19-Lab2/blob/master/Pre-lab%20Sketches.jpg)
+![Illustrations of Pre-Lab Ideas](https://github.com/sgc87/IDD-Fa19-Lab2/blob/master/Pre-lab%20Sketches.jpg)
 
 ## Part A. Solder your LCD panel
 
