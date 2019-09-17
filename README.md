@@ -100,6 +100,8 @@ Star Wars Theme Song
 **a. Make a short video showing how your timer works, and what happens when time is up!**
 I made a timer where the user sets the time, and then when the button is pressed, the timer ticks to zero. 
 Once zero is reached, The Final Countdown, the song, is played. 
+
+Here's a video demo of my "Final Countdown" timer
 [The Final Countdown!](https://www.youtube.com/watch?v=4EsD4VwtIyg&feature=share&fbclid=IwAR22yKTyRz1F26sq5BCkoCNKnhx7o9P6lWNpHR57-5ZHqzr3bFMPA9-uE0M)
 
 The following is my code used in the video. I have also uploaded it in my lab 2 repository. 
