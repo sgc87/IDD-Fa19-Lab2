@@ -18,10 +18,12 @@ Include your responses to the bold questions below. Include snippets of code tha
  9) alarm clock: This Requires just a dial and the push down button to turn the set alarm on or off. 
 10) that was easy buttom: May require an SD card for the sound file, but it's pretty straight forward and fun. 
 
+Illustrations of Pre-Lab Ideas
 ![Illustrations of Pre-Lab Ideas](https://github.com/sgc87/IDD-Fa19-Lab2/blob/master/Pre-lab%20Sketches.jpg)
 
 ## Part A. Solder your LCD panel
 
+Image of pins soldered to the LCD
 ![Part A LCD Solder](https://github.com/sgc87/IDD-Fa19-Lab2/blob/master/LCD%20Solder.jpg)
 
 ## Part B. Writing to the LCD
@@ -56,7 +58,7 @@ void setup() {
 [Multimeter Code](https://github.com/sgc87/IDD-Fa19-Lab2/blob/master/multimeter_sgc87.ino)
 
 ## Part C. Using a time-based digital sensor
-
+Video of my encoder working
 [Rotary Encoder Video](https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2Foc_immYQTo8%3Ffbclid%3DIwAR1QU2X6IA-nAEVBljFnNDXLBaRemzhXAcw24lmihTY0dQrd77Vvv2nVnpA&h=AT3U13gbsLkSuN9OVYjvlSiaQfaGe-q3VRKpHFUS-lVIKvIdQMIjnP7NKvAB94j9GWbWYHtXXQvjbT8WQKYcx-3Jm4Z0uePWFEnMbGwVQAh80W3fl0veXf1Ww3hCN-GXu3u8pQ)
 
 
